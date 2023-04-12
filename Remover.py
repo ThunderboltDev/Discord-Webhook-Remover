@@ -1,4 +1,5 @@
 import requests
+import json
 
 webhook_url = input("Enter the webhook URL to delete: ")
 field_name = input("Enter the field name: ")
